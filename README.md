@@ -1,6 +1,6 @@
 ## Alacritty Configs
-  Download this
-  [Alacritty Install](https://github.com/alacritty/alacritty)
+  Download 
+  [Alacritty](https://github.com/alacritty/alacritty)
 
   Run this
   ```shell
